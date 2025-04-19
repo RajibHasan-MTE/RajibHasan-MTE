@@ -39,17 +39,6 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 - Comm Protocols: `UART`, `SPI`, `I2C`, `Bluetooth`, `WiFi`
 - Others: `Notion`, `Git`, `Fiverr`, `YouTube`
 
----
-## 📊 GitHub Stats Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajibHasan-MTE&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajibHasan-MTE&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajibHasan-MTE&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajibHasan-MTE&theme=github_dark" />
-</div>
-
-> Above stats generated with: [tipsy/profile-summary-for-github](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
