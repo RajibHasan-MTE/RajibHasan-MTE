@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rajib Hasan
 
 🎓 **B.Sc. in Mechatronics Engineering** | World University of Bangladesh  
-🛠️ **⚒ Mechatronics engineer at THiNK LABs** | **Embedded Systems Developer**| Robotics Enthusias  
+🛠️ **Embedded Systems Developer** | Robotics Enthusiast | Firmware Engineer  
 📍 Based in Dhaka, Bangladesh
 
 ---
@@ -41,20 +41,26 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats Summary
 
-- 💼 [LinkedIn](https://linkedin.com/in/rajibhasan-dev)  
-- 📺 [YouTube Channel](https://youtube.com/@yourchannel) *(add if available)*  
-- ✨ [Fiverr Profile](https://www.fiverr.com/rajib_hasan)  
-- 📧 RajibHasan.MTE@gmail.com
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajibHasan-MTE&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajibHasan-MTE&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajibHasan-MTE&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajibHasan-MTE&theme=github_dark" />
+</div>
+
+> Above stats generated with: [tipsy/profile-summary-for-github](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Connect With Me
 
-![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajibHasan-MTE&show_icons=true&theme=tokyonight)
+- 💼 [LinkedIn](https://linkedin.com/in/rajibhasan-dev)  
+- 📺 [YouTube Channel](https://youtube.com/@yourchannel) *(add your real link if you want)*  
+- ✨ [Fiverr Profile](https://www.fiverr.com/rajib_hasan)  
+- 📧 rajibembedded@gmail.com
 
 ---
 
 > “Code is not just syntax, it’s the soul of a system.” – *Rajib Hasan*
-
