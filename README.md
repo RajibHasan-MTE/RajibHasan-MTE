@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rajib Hasan
 
 🎓 **B.Sc. in Mechatronics Engineering** | World University of Bangladesh  
-🛠️ **Embedded Systems Developer** | Robotics Enthusiast | Firmware Engineer  
+🛠️ **⚒ Mechatronics engineer at THiNK LABs** | **Embedded Systems Developer**| Robotics Enthusias  
 📍 Based in Dhaka, Bangladesh
 
 ---
@@ -46,13 +46,13 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 - 💼 [LinkedIn](https://linkedin.com/in/rajibhasan-dev)  
 - 📺 [YouTube Channel](https://youtube.com/@yourchannel) *(add if available)*  
 - ✨ [Fiverr Profile](https://www.fiverr.com/rajib_hasan)  
-- 📧 rajibembedded@gmail.com
+- 📧 RajibHasan.MTE@gmail.com
 
 ---
 
 ## 📈 GitHub Stats
 
-![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajib-hasan-dev&show_icons=true&theme=tokyonight)
+![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajibHasan-MTE&show_icons=true&theme=tokyonight)
 
 ---
 
