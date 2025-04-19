@@ -5,6 +5,9 @@
 📍 Based in Dhaka, Bangladesh
 
 ---
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithi&theme=dracula)|
+
+---
 
 ## 🚀 About Me
 
