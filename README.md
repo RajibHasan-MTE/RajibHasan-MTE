@@ -52,7 +52,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ## 📈 GitHub Stats
 
-![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajibHhhhasan-MTE&show_icons=true&theme=tokyonight)
+![Rajib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajibHasan-MTE&show_icons=true&theme=tokyonight)
 
 ---
 
