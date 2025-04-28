@@ -4,6 +4,10 @@
 🛠️ **Embedded Systems Developer** | Robotics Enthusiast | Firmware Engineer  
 📍 Based in Dhaka, Bangladesh
 
+# My Awesome Project
+![Stars](https://img.shields.io/github/stars/username/repo?style=social)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ---
 
 ## 🚀 About Me
