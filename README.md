@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Rajib Hasan
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ0c2h4ZDQxZDF1cGsxdGo1ZzM1MHdsbG5kbTB4ZDhsNTg3a3JmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hK9HkbNkYgiy3HOvuS/giphy.gif" alt="Animated Pinout" width="800" height="300">
+</p>
+
 🎓 **B.Sc. in Mechatronics Engineering** | World University of Bangladesh  
 🛠️ **Embedded Systems Developer** | Robotics Enthusiast | Firmware Engineer  
 📍 Based in Dhaka, Bangladesh
