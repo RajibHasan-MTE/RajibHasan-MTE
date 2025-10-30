@@ -41,7 +41,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ## 🧰 Tools & Technologies
 
-- Languages: `C`, `C++`, `Embedded C`, `Python`
+- Languages: `C`, `C++`, `Embedded C`, `Python`, `Dart`
 - MCUs: `STM32`, `ESP32`, `AVR`, `Arduino`
 - IDEs: `STM32CubeIDE`, `Keil`, `Arduino IDE`, `PlatformIO`
 - CAD/EDA: `Altium Designer`, `EasyEDA`, `Proteus`
