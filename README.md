@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rajib Hasan
+# 👋 Hello, I'm Rajib
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/19152494/128324719-b9bda13d-92dd-49f5-b866-8dd04b3f9d76.gif" alt="Animated Pinout" width="500" height="300">
@@ -8,7 +8,7 @@
 🛠️ **Embedded Systems Developer** | Flutter developer | Competitive programmer | Robotics Enthusiast | Firmware Engineer  
 📍 Based in Dhaka, Bangladesh
 
-# My Awesome Project
+#My Project
 ![Stars](https://img.shields.io/github/stars/username/repo?style=social)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -20,9 +20,9 @@
 I'm a passionate embedded systems engineer and robotics developer with hands-on experience in:
 
 - 🌟 **Firmware Development** (C, Embedded C, C++, Python)
-- 👩‍💻 **Flutter developer**
+- 👩‍💻 **Flutter developer** (Dar)
 - ⚙️ **Microcontroller Programming** (STM32, ESP32, Arduino, AVR)
-- 🧠 **IoT & Smart Systems** (Hydroponics automation, E-textile volume controller)
+- 🧠 **IoT & Smart Systems** ()
 - 📐 **PCB Design** (Altium Designer, EasyEDA, Proteus Simulation)
 - 🔥 **Robotics Projects** (Line follower, gas detector & fire-fighting bots)
 
@@ -77,7 +77,8 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/rajibhasan-dev)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajibhasan-mte/)  
+- 👩‍🏫 [Facebook page](https://www.facebook.com/RoboticsWithRajib)  
 - 📺 [YouTube Channel](https://youtube.com/@yourchannel) *(add your real link if you want)*  
 - ✨ [Fiverr Profile](https://www.fiverr.com/rajib_hasan)  
 - 📧 rajibembedded@gmail.com
