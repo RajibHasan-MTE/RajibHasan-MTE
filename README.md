@@ -20,7 +20,7 @@
 I'm a passionate embedded systems engineer and robotics developer with hands-on experience in:
 
 - 🌟 **Firmware Development** (C, Embedded C, C++, Python)
-- 👩‍💻 **Flutter developer
+- 👩‍💻 **Flutter developer**
 - ⚙️ **Microcontroller Programming** (STM32, ESP32, Arduino, AVR)
 - 🧠 **IoT & Smart Systems** (Hydroponics automation, E-textile volume controller)
 - 📐 **PCB Design** (Altium Designer, EasyEDA, Proteus Simulation)
