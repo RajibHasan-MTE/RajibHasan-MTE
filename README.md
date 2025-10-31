@@ -79,9 +79,9 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajibhasan-mte/)  
 - 👩‍🏫 [Facebook page](https://www.facebook.com/RoboticsWithRajib)  
-- 📺 [YouTube Channel](https://youtube.com/@yourchannel) *(add your real link if you want)*  
+- 📺 [YouTube Channel](https://youtube.com/@yourchannel)
 - ✨ [Fiverr Profile](https://www.fiverr.com/rajib_hasan)  
-- 📧 rajibembedded@gmail.com
+- 📧 rajibhasan.mte@gmail.com
 
 ---
 
