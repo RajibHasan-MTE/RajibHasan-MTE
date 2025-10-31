@@ -5,7 +5,8 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rajibhasan-mte/)
 [![Instagram Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=instagram&logoColor=f5f7fe)]()
 [![Website Connect](https://img.shields.io/badge/%20-Website-black?color=222244&labelColor=000000&logo=hyperlink&logoColor=f5f7fe)]()
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:rajibhasan.mte@gmail.com?subject=From%20GitHub
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mailto:rajibhasan.mte@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/19152494/128324719-b9bda13d-92dd-49f5-b866-8dd04b3f9d76.gif" alt="Animated Pinout" width="500" height="300">
