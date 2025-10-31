@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rajib Hasan
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhhd3N3bHk5Zjh5cTQ2bWlxYmZ1Mm4wd2V2bTNoOTFkYWFmejhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EBysPyjz3BHVu/giphy.gif" alt="Animated Pinout" width="500" height="300">
+  <img src="https://user-images.githubusercontent.com/19152494/128324719-b9bda13d-92dd-49f5-b866-8dd04b3f9d76.gif" alt="Animated Pinout" width="500" height="300">
 </p>
 
 🎓 **Studied B.Sc in Mechatronics Engineering** | World University of Bangladesh  
