@@ -1,4 +1,4 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=afiatamanna06&&show_icons=true&theme=algolia&count_private=true" alt="Jason's Github Stats"/>](https://github.com/rajibhasan-mte)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=RajibHasan-MTE&show_icons=true&theme=algolia&count_private=true" alt="Jason's Github Stats"/>](https://github.com/rajibhasan-mte)
 
 # Hello, I am Rajib Hasan! Nice to meet you
 
