@@ -4,8 +4,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhhd3N3bHk5Zjh5cTQ2bWlxYmZ1Mm4wd2V2bTNoOTFkYWFmejhzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EBysPyjz3BHVu/giphy.gif" alt="Animated Pinout" width="500" height="300">
 </p>
 
-🎓 **B.Sc. in Mechatronics Engineering** | World University of Bangladesh  
-🛠️ **Embedded Systems Developer** | Robotics Enthusiast | Firmware Engineer  
+🎓 **Studied B.Sc in Mechatronics Engineering** | World University of Bangladesh  
+🛠️ **Embedded Systems Developer** | Flutter developer | Competitive programmer | Robotics Enthusiast | Firmware Engineer  
 📍 Based in Dhaka, Bangladesh
 
 # My Awesome Project
@@ -20,6 +20,7 @@
 I'm a passionate embedded systems engineer and robotics developer with hands-on experience in:
 
 - 🌟 **Firmware Development** (C, Embedded C, C++, Python)
+- 👩‍💻 **Flutter developer
 - ⚙️ **Microcontroller Programming** (STM32, ESP32, Arduino, AVR)
 - 🧠 **IoT & Smart Systems** (Hydroponics automation, E-textile volume controller)
 - 📐 **PCB Design** (Altium Designer, EasyEDA, Proteus Simulation)
